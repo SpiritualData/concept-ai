@@ -3,19 +3,23 @@ export const metadata = {
   description: "Page description",
 };
 
-import Hero from "@/components/hero";
+import Intro from "@/components/Intro";
 import Features from "@/components/features";
+import Benifits from "@/components/Benifits";
 import Newsletter from "@/components/newsletter";
 import Zigzag from "@/components/zigzag";
-import Testimonials from "@/components/testimonials";
+import Market from "@/components/Market";
+import WhyItMatters from "@/components/WhyItMatters";
 
 export default function Home() {
   return (
     <>
-      <Hero />
+      <Intro />
       <Features />
+      <WhyItMatters />
       <Zigzag />
-      <Testimonials />
+      <Benifits />
+      <Market />
       <Newsletter />
     </>
   );
