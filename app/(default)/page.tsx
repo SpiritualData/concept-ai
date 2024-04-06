@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Concept AI: Automated decision-making",
-  description: "Page description",
+  title: "Concept AI",
+  description: "Reliable AI you can statistically trust",
 };
 
 import Intro from "@/components/Intro";

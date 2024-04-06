@@ -14,10 +14,9 @@ export default function Zigzag() {
             <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">
               Revolutionize Your Research
             </div>
-            <h1 className="h2 mb-4">Empowering Truth with AI</h1>
+            <h1 className="h2 mb-4">Calculating Truth with AI</h1>
             <p className="text-xl text-gray-400">
-              Uncover objective truths across disciplines with Concept AI's
-              revolutionary truth calculation API.
+              Automate the scientific method and qualitative analysis while merging public data with your knowledge base.
             </p>
           </div>
 
@@ -49,7 +48,7 @@ export default function Zigzag() {
                   </div>
                   <h3 className="h3 mb-3">AI Technology Overview</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Leveraing OpenAI's API and vector search, AI bot comprehends
+                    Leveraging LLMs and vector search, AI bot comprehends
                     spiritual texts, evaluates evidence, and assesses hypotheses
                     truthfulness, offering personalized insights
                   </p>

@@ -54,16 +54,15 @@ export default function Intro() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Uncover objective truths across disciplines with Concept AI's
-              revolutionary truth calculation API.
+              10X the reliability of your AI solution, through automating the scientific method and qualitative analysis on relevant data.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
                 <a
                   className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0"
-                  href="#0"
+                  href="https://forms.gle/Rx1rYjfh2M11pKfN9"
                 >
-                  Start free trial
+                  Request free access
                 </a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
@@ -73,7 +72,7 @@ export default function Intro() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Learn more
+                  Learn more about our non-profit owner
                 </a>
               </div>
             </div>

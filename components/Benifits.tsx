@@ -7,7 +7,7 @@ const Benifits = () => {
         <div className="py-10 md:py-20  border-t border-gray-800">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Exploring Benifits</h2>
+            <h2 className="h2 mb-4">Exploring Benefits</h2>
             <p className="text-xl text-gray-400">
               Forging new paths in knowledge automation, blending large language
               models, statistics, and artificial intelligence to revolutionize

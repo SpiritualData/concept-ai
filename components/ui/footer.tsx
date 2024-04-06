@@ -21,8 +21,7 @@ export default function Footer() {
                 </Link>
               </div>
               <div className="text-gray-400">
-                Uncover objective truths across disciplines with Concept AI's
-                revolutionary truth calculation API
+                Calculating truth with AI.
               </div>
             </div>
 
@@ -111,7 +110,7 @@ export default function Footer() {
                 <h6 className="text-gray-200 font-medium mb-1">Contact Us</h6>
                 <ul>
                   <li className="mb-1 text-gray-400 hover:text-gray-100 transition duration-150 ease-in-out">
-                    support@spiritualdata.org
+                    info@conceptai.solutions
                   </li>
                 </ul>
               </div>
@@ -193,7 +192,7 @@ export default function Footer() {
 
             {/* Copyrights note */}
             <div className="text-gray-400 text-sm mr-4">
-              &copy; ConceptAI.com. All rights reserved.
+              &copy; Writealyze LLC. All rights reserved.
             </div>
           </div>
         </div>

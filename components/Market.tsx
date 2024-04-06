@@ -13,7 +13,7 @@ export default function Market() {
         <div className="py-10 md:py-12 border-t border-gray-800">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Market Opportunity</h2>
+            <h2 className="h2 mb-4">Creating Value Through Reliable AI</h2>
             <p className="text-xl text-gray-400">
               Breaking new ground in knowledge automation, merging large
               language models, statistical analysis, and AI to transform
@@ -125,8 +125,7 @@ export default function Market() {
               organizations, addressing their need for an efficient process to
               sift through and evaluate vast amounts of research and
               documentation. Concept AI promises to streamline innovation
-              pipelines, enhance decision-making, and automate experimentation,
-              tapping into a burgeoning global document analysis market.
+              pipelines, enhance decision-making, and automate experimentation.
             </blockquote>
             {/* <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>

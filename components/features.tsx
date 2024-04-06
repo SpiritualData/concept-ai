@@ -5,11 +5,9 @@ export default function Features() {
         <div className="py-12 md:py-20">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">At Concept AI Solutions</h2>
+            <h2 className="h2 mb-4">Core Offerings</h2>
             <p className="text-xl text-gray-400">
-              Pioneering a new frontier in knowledge automation, combining
-              large language models, statistics, and AI to redefine accuracy in
-              research and decision-making.
+              Either integrate our API into your existing solution, or let us implement a custom AI solution for you from scratch. Whatever you do, we're here to support!
             </p>
           </div>
 
@@ -50,10 +48,9 @@ export default function Features() {
                   strokeWidth="2"
                 />
               </svg>
-              <h4 className="h4 mb-2">Concept Identification</h4>
-              <p className="text-lg text-gray-400 text-center">
-                Pinpointing concepts within a knowledge graph for a structured
-                understanding.
+              <h4 className="h4 mb-2">Knowledge Graph Creation</h4>
+              <p className="text-lg text-gray-400">
+                Import natural language text from any source into a knowledge graph with statistical relationships. A vector database will also work hand-in-hand with the graph.
               </p>
             </div>
 
@@ -90,9 +87,9 @@ export default function Features() {
                   strokeLinecap="square"
                 />
               </svg>
-              <h4 className="h4 mb-2">Hypothesis Formulation</h4>
-              <p className="text-lg text-gray-400 text-center">
-                Generating potential hypotheses implied by the text.
+              <h4 className="h4 mb-2">Idea Formulation</h4>
+              <p className="text-lg text-gray-400">
+                Generate testable hypotheses and theories from a given text or problem. Each hypothesis is represented by a set of relationships in a knowledge graph.
               </p>
             </div>
 
@@ -141,8 +138,8 @@ export default function Features() {
                 </g>
               </svg>
               <h4 className="h4 mb-2">Probability Calculation</h4>
-              <p className="text-lg text-gray-400 text-center">
-                Assessing the likelihood of each hypothesis being true.
+              <p className="text-lg text-gray-400">
+                Automatically calculate the likelihood of a given hypothesis being true, through the systematic review of relevant evidence. We incorporate the statistical validation of our methods for confidence measures.
               </p>
             </div>
 
