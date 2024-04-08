@@ -18,8 +18,8 @@ export default function Home() {
       <Features />
       <WhyItMatters />
       <Zigzag />
-      <Benifits />
-      <Market />
+      {/*<Benifits />*/}
+      {/*<Market />*/}
       <Newsletter />
     </>
   );

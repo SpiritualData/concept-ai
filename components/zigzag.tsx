@@ -44,13 +44,12 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    Beyond Boundaries: Envisioning the Unseen
+                    Data Integration
                   </div>
-                  <h3 className="h3 mb-3">AI Technology Overview</h3>
+                  <h3 className="h3 mb-3">Our Data + Your Data</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Leveraging LLMs and vector search, AI bot comprehends
-                    spiritual texts, evaluates evidence, and assesses hypotheses
-                    truthfulness, offering personalized insights
+                    We specialize in research papers, personal experiences or events, documentation, and more.
+                    Example applications:
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -61,7 +60,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Harnesses OpenAI for deep spiritual insights</span>
+                      <span>Analyze research papers + reports on your internal experiments to recommend future experiments</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -71,7 +70,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Applies vector search for precise evidence</span>
+                      <span>Analyze research papers + news to recommend the best tool or model for your AI project</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -81,7 +80,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Calculates hypotheses' veracity efficiently</span>
+                      <span>Combine doctor notes, patient experiences, and research to recommend mental health solutions</span>
                     </li>
                   </ul>
                 </div>
@@ -110,13 +109,11 @@ export default function Zigzag() {
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    Expanding Horizons, Deepening Insights
+                    How It Works
                   </div>
-                  <h3 className="h3 mb-3">Our Objectives</h3>
+                  <h3 className="h3 mb-3">We'll make it work for you</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Creating unique knowledge graph to transform spiritual
-                    exploration. This approach offers personalized, deep
-                    insights into spirituality, powered by modern AI
+                    We'll run statistical evaluations on the data you specify.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -127,7 +124,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Modern insights into ancient wisdom</span>
+                      <span>Either do it yourself, or have us do it, at any point of the process.</span>
                     </li>
                     <li className="flex items-center mb-2">
                       <svg
@@ -137,7 +134,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Intelligent prompts for nuanced inquiries</span>
+                      <span>We will help you understand how to use our prompt engineering framework.</span>
                     </li>
                     <li className="flex items-center">
                       <svg
@@ -147,7 +144,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Knowledge graph for concept connectivity</span>
+                      <span>We'll work with you on your hosting requirements.</span>
                     </li>
                   </ul>
                 </div>
@@ -176,13 +173,11 @@ export default function Zigzag() {
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <div className="font-architects-daughter text-xl text-purple-600 mb-2">
-                    Evaluating evidence with a discerning eye.
+                    Why Concept AI?
                   </div>
-                  <h3 className="h3 mb-3">Our Specialties</h3>
+                  <h3 className="h3 mb-3">How We're Different</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                    Concept AI is built on a foundation of specialties that
-                    cater to various aspects of decision-making and knowledge
-                    automation
+                    We understand that the reliability of AI can be a matter of life and death. We prioritize accuracy and reliability, even at the cost of speed. That being said, the flexibility of our system enables informed tradeoffs between speed and accuracy.
                   </p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
@@ -194,8 +189,7 @@ export default function Zigzag() {
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
                       <span>
-                        Pinpointing concepts within a knowledge graph for a
-                        structured understanding
+                        Our solution systematically reviews all relevant data
                       </span>
                     </li>
                     <li className="flex items-center mb-2">
@@ -207,7 +201,7 @@ export default function Zigzag() {
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
                       <span>
-                        Leveraging expert knowledge for precise analysis
+                        Our prompt engineering framework enables domain experts to contribute and run experiments
                       </span>
                     </li>
                     <li className="flex items-center">
@@ -218,7 +212,7 @@ export default function Zigzag() {
                       >
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Crafting and testing scientific theories</span>
+                      <span>We automate principles within epistemology, intellectual humility, and statistics</span>
                     </li>
                   </ul>
                 </div>

@@ -52,7 +52,7 @@ export default function Newsletter() {
             {/* CTA form */}
             <iframe
               title="Newsletter"
-              src="https://embeds.beehiiv.com/51f0c52b-4966-4cde-8f8d-e761d1b07095?slim=true"
+              src="https://embeds.beehiiv.com/1be480d0-fa85-41a6-ac60-00c12e0f5caa?slim=true"
               data-test-id="beehiiv-embed"
               height="52"
               width="80%"
